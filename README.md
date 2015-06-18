@@ -1,6 +1,8 @@
 Scripts Ansisop
 ===============
 
+[![Join the chat at https://gitter.im/jazcarate/scripts-ansisop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jazcarate/scripts-ansisop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 En este repositorio acumularemos scripts de AnSISOP para probar los trabajos prácticos de Está CoverFlow.
 
 Contribuir
